@@ -10,7 +10,7 @@ It processes a stream of trade data (time, price, and volume), computes moving a
 
 ---
 
-## ⚙️ Features
+##  Features
 - **Tape Processing**  
   Reads trade data and calculates:
   - 5-period **moving average of price**  
@@ -28,7 +28,7 @@ It processes a stream of trade data (time, price, and volume), computes moving a
 
 ---
 
-## 🧾 Example Trade Data
+## Example Trade Data
 The simulator works on a vector of trade data:
 
 ```cpp
