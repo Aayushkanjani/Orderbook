@@ -1,11 +1,11 @@
-# Simple High-Frequency Trading (HFT) Simulator
+# Orderbook
 
-This project is a simple **High-Frequency Trading (HFT)** simulation written in **C++**.  
+This project is a simple **Orderbook** simulation written in **C++**.  
 It processes a stream of trade data (time, price, and volume), computes moving averages, evaluates price changes, and executes basic buy/sell strategies.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `main.cpp` → Contains the full implementation of the HFT simulator.
 
 ---
